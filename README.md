@@ -177,8 +177,6 @@ cvli-eda-ceara/
     └── grafico_08_boxplot_idade.png
 ```
 
-> **Nota:** O ficheiro de dados `CVLI_2009-a-2025.xlsx` não está incluído neste repositório por questões de dimensão e política de dados. Pode ser obtido junto da SSPDS-CE através dos canais oficiais de transparência pública.
-
 ---
 
 ## ⚖️ Licença
